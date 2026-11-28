@@ -1,0 +1,23 @@
+{
+  "id": "superblock-poblenou",
+  "city": "Barcelona · Poblenou",
+  "project": "poblenou",
+  "recorded": "2026-11-18T08:40:23.596031+00:00",
+  "engine": {
+    "engine_version": "0.29.0",
+    "engine_commit": "3e8251e17da4de80fa6db9a319558dead041fd47"
+  },
+  "speed": 4,
+  "data": "Illustrative traffic. Illustrative demand: 3,369 car trips in one morning hour, written by rule to show the tools (Barcelona demo, Stage 1); not observed traffic, not a forecast of Barcelona's traffic.",
+  "order": 1,
+  "files": {
+    "events.jsonl.gz": {
+      "sha256": "bc7c79130d0ae351e9cddd112c63eefbacc43d7e322ce992932eb53bb4837985",
+      "bytes": 28212
+    },
+    "README.md": {
+      "sha256": "a39fdceaad62f59ef9f44c0ea0cd5737eee1ea7c174c75ea171768b326883359",
+      "bytes": 824
+    }
+  }
+}

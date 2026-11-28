@@ -1,0 +1,19 @@
+{
+  "commits": [
+    {
+      "sha": "3143a17",
+      "subject": "har-struct-p: har-003 Phase 19 shipped — the structure, after the user's look",
+      "date": "2026-11-28"
+    },
+    {
+      "sha": "8770f99",
+      "subject": "har-struct-p: har-003 Phase 19 — rules and documents brought to the code: the views panel, the footer, the waiting card",
+      "date": "2026-11-28"
+    },
+    {
+      "sha": "b1a844d",
+      "subject": "har-struct-p: har-003 Phase 19 — the gates' record",
+      "date": "2026-11-28"
+    }
+  ]
+}
